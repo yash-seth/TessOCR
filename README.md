@@ -26,6 +26,6 @@ The lack of an OCR tool native to Personal Computers was a major reason of why I
 ![Before result GUI image](https://github.com/yash-seth/TessOCR/blob/assets/Demo-Images/opening_GUI.png)
 
 
-#### Image after the results are generated on using the tool on the image.
+#### Image after the results are generated on using the tool on the image - scrollable to view the entire result.
 
 ![Result generated - GUI image](https://github.com/yash-seth/TessOCR/blob/assets/Demo-Images/result.png)
