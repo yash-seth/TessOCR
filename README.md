@@ -18,14 +18,12 @@ The lack of an OCR tool native to Personal Computers was a major reason of why I
 ## Samples
 #### Here, we'll be working with the sample image shown below - **setup.png**
 
-![Sample image-setup.png](https://github.com/yash-seth/TessOCR/blob/assets/Demo-Images/setup.png)
-
+![image](https://github.com/yash-seth/TessOCR/assets/71393551/172da29d-f42f-4d9c-91bd-d45b05db5ac4)
 
 #### This is the GUI on launching the tool.
 
-![Before result GUI image](https://github.com/yash-seth/TessOCR/blob/assets/Demo-Images/opening_GUI.png)
-
+![image](https://github.com/yash-seth/TessOCR/assets/71393551/9b9ef774-ec11-41b3-86e1-9bd1059fac18)
 
 #### Image after the results are generated on using the tool on the image - scrollable to view the entire result.
 
-![Result generated - GUI image](https://github.com/yash-seth/TessOCR/blob/assets/Demo-Images/result.png)
+![image](https://github.com/yash-seth/TessOCR/assets/71393551/cf10fd09-f7f4-4a9f-b70b-901fffd64324)
